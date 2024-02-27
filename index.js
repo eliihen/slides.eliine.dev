@@ -18,5 +18,4 @@ redirects.forEach((redirect) => {
 <link rel="canonical" href="${to}">
   `.trim();
   fs.writeFileSync(path.join(__dirname + "/build", from + ".html"), template);
-  console.log(template);
 });

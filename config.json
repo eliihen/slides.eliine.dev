@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "from": "index",
+      "to": "https://drive.google.com/drive/folders/1zH1WVz3yMaA9LeJtwbSaNwoSDIEwy3Ei?usp=sharing"
+    },
+    {
       "from": "foss4g",
       "to": "https://drive.google.com/file/d/1GqTNAJvJwMR7nUKJyGl0ob2J0y6I7SNZ/view?usp=drive_link"
     }
