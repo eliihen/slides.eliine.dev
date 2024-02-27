@@ -5,8 +5,116 @@
       "to": "https://drive.google.com/drive/folders/1zH1WVz3yMaA9LeJtwbSaNwoSDIEwy3Ei?usp=sharing"
     },
     {
+      "from": "404",
+      "to": "https://drive.google.com/drive/folders/1zH1WVz3yMaA9LeJtwbSaNwoSDIEwy3Ei?usp=sharing"
+    },
+    {
+      "from": "web-authentication",
+      "to": "https://drive.google.com/file/d/1n3eOETzUMc1nDaNNFrSQDyBxKUOBQium/view?usp=sharing"
+    },
+    {
+      "from": "fosseprog",
+      "to": "https://drive.google.com/file/d/18bD2n5lhn_xL3B-b1g8YvlPB52BQcgwT/view?usp=sharing"
+    },
+    {
+      "from": "alternate-patterns-for-reusability",
+      "to": "https://drive.google.com/file/d/1UIjUSORCtcubR6eNwRIocu_7neaY_UVL/view?usp=sharing"
+    },
+    {
+      "from": "graphql",
+      "to": "https://drive.google.com/file/d/1eExBIxoqyrPv90l3mnD4wmw6CGIElpCV/view?usp=sharing"
+    },
+    {
+      "from": "ui-testing",
+      "to": "https://drive.google.com/file/d/1x_gliKRfHWlJYY6hHlNnTy49j7b2ZF7t/view?usp=sharing"
+    },
+    {
+      "from": "service-workers",
+      "to": "https://drive.google.com/file/d/1jwuLNcNaQLSvMIzaT4tUg4L7wiosybpM/view?usp=sharing"
+    },
+    {
+      "from": "oms-component-library",
+      "to": "https://drive.google.com/file/d/1IFTgnobZUh5M6FAqCENlcE_KhY5gXurz/view?usp=sharing"
+    },
+    {
+      "from": "css-in-js",
+      "to": "https://drive.google.com/file/d/1HEEc8stidJeADoIOf1nJPBqkocWkJnMv/view?usp=sharing"
+    },
+    {
+      "from": "xss",
+      "to": "https://drive.google.com/file/d/11eDTefslFeob_SQdNO1GFSOzoYtLOmsp/view?usp=sharing"
+    },
+    {
+      "from": "what-the-csp",
+      "to": "https://drive.google.com/file/d/1rWzVVHJyPEPitbXubAMk05oxI8_z7fsw/view?usp=sharing"
+    },
+    {
+      "from": "hooks",
+      "to": "https://drive.google.com/file/d/1pnIRrDQd8HjDU0fUPJrMVVkj6fhdoJ21/view?usp=sharing"
+    },
+    {
+      "from": "react-patterns",
+      "to": "https://drive.google.com/file/d/1ZFCcSJQfpRpDMx-_sJ72CExKgFEAdwm-/view?usp=sharing"
+    },
+    {
+      "from": "advanced-git",
+      "to": "https://drive.google.com/file/d/17U8hBb3k_H6uPCiOKKNOYXppUdUhger1/view?usp=sharing"
+    },
+    {
+      "from": "csp-lightning-talk",
+      "to": "https://drive.google.com/file/d/1VMg8sOvBRJsfOk_mVaHHSvvq_ptmtKMT/view?usp=sharing"
+    },
+    {
+      "from": "kommunikasjon-produktteam",
+      "to": "https://drive.google.com/file/d/1Vs2HdccXrK5UBQNddjP5tyD5zdbjZgsn/view?usp=sharing"
+    },
+    {
+      "from": "fremtidens-utviklingsflyt",
+      "to": "https://drive.google.com/file/d/1N1Mvs6Hz-H4bF3ouLVV1VwosWqX0cYLB/view?usp=sharing"
+    },
+    {
+      "from": "anthos-gcp",
+      "to": "https://drive.google.com/file/d/1qoich8dllSW7ejJ1btpjd1bxblHeZNeS/view?usp=sharing"
+    },
+    {
+      "from": "skip-intro",
+      "to": "https://drive.google.com/file/d/1PN5mrS_G1I6etRDXuYsG-BEvXglDuNys/view?usp=sharing"
+    },
+    {
+      "from": "rust-intro",
+      "to": "https://drive.google.com/file/d/1MN40uLWLseMH5WKU7MqJdIQawFiCmEDU/view?usp=sharing"
+    },
+    {
+      "from": "komponentbasert-utvikling",
+      "to": "https://drive.google.com/file/d/1tikYskTnHx3rLslCXLPAWH8-tQwbFi_P/view?usp=sharing"
+    },
+    {
+      "from": "cd",
+      "to": "https://drive.google.com/file/d/1wZ1gzUfa2iTyWQoHb_vMEFAlRHpuTv7P/view?usp=sharing"
+    },
+    {
+      "from": "argo-learnings",
+      "to": "https://drive.google.com/file/d/190O1HLTvnvAFuiGVKLOFfQ6yjCPFRGRM/view?usp=sharing"
+    },
+    {
       "from": "foss4g",
       "to": "https://drive.google.com/file/d/1GqTNAJvJwMR7nUKJyGl0ob2J0y6I7SNZ/view?usp=drive_link"
+    },
+    {
+      "from": "skip-workshop-2",
+      "to": "https://drive.google.com/file/d/19xwhW46SppPBkVrCdZj61GajxoFyKI2p/view?usp=sharing"
+    },
+    {
+      "from": "skip-workshop-1",
+      "to": "https://drive.google.com/file/d/1Ylr3AYiYRhyQj9h7UCRhVf-Bm4aJ41n0/view?usp=sharing"
+    },
+    {
+      "from": "security-headers",
+      "to": "https://drive.google.com/file/d/1vY3D-TtZx0292w0I7Z7B45JZRBpp0C3K/view?usp=sharing"
+    },
+    {
+      "from": "product-owner",
+      "to": "https://drive.google.com/file/d/1s6REZpV3wreZl3UE9duLHNe--M-7mm1R/view?usp=sharing"
     }
   ]
 }
