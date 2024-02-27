@@ -35,7 +35,7 @@ jobs:
       - name: Generate onprem-pricing.yaml
         uses: actions/github-script@v7
         with:
-          script: require('../../index.js')
+          script: require('./index.js')
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
