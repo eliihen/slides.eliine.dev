@@ -135,6 +135,10 @@
     {
       "from": "argocd-easymode",
       "to": "https://drive.google.com/file/d/1CGNC7uXxo8hin8x8Y84V0Um8gMoQgV__/view?usp=drive_link"
+    },
+    {
+      "from": "product-thinking-short",
+      "to": "https://drive.google.com/file/d/1i1N9KoE2E1IPLG0fiheGKpHYOCTUnCuU/view?usp=drive_link"
     }
   ]
 }
